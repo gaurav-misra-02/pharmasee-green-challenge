@@ -1,0 +1,43 @@
+name,type
+Aspirin,Pain Reliever/NSAID
+Ibuprofen,Pain Reliever/NSAID
+Paracetamol,Pain Reliever/Analgesic
+Acetaminophen,Pain Reliever/Analgesic
+Amoxicillin,Antibiotic
+Ciprofloxacin,Antibiotic
+Metformin,Antidiabetic
+Lisinopril,ACE Inhibitor/Blood Pressure
+Atorvastatin,Statin/Cholesterol
+Omeprazole,Proton Pump Inhibitor/Acid Reducer
+Simvastatin,Statin/Cholesterol
+Levothyroxine,Thyroid Hormone
+Amlodipine,Calcium Channel Blocker/Blood Pressure
+Metoprolol,Beta Blocker/Blood Pressure
+Albuterol,Bronchodilator/Asthma
+Losartan,ARB/Blood Pressure
+Gabapentin,Anticonvulsant/Nerve Pain
+Hydrochlorothiazide,Diuretic/Blood Pressure
+Sertraline,Antidepressant/SSRI
+Prednisone,Corticosteroid/Anti-inflammatory
+Azithromycin,Antibiotic
+Cetirizine,Antihistamine
+Loratadine,Antihistamine
+Diphenhydramine,Antihistamine
+Ranitidine,H2 Blocker/Acid Reducer
+Pantoprazole,Proton Pump Inhibitor/Acid Reducer
+Warfarin,Anticoagulant/Blood Thinner
+Clopidogrel,Antiplatelet/Blood Thinner
+Furosemide,Diuretic
+Tramadol,Opioid Analgesic/Pain Reliever
+Naproxen,NSAID/Pain Reliever
+Diclofenac,NSAID/Pain Reliever
+Montelukast,Leukotriene Inhibitor/Asthma
+Insulin,Antidiabetic/Hormone
+Gliclazide,Antidiabetic
+Atenolol,Beta Blocker/Blood Pressure
+Ramipril,ACE Inhibitor/Blood Pressure
+Spironolactone,Diuretic/Blood Pressure
+Doxycycline,Antibiotic
+Clarithromycin,Antibiotic
+
+
