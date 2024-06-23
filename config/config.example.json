@@ -1,0 +1,27 @@
+{
+  "openai": {
+    "api_key": "your-openai-api-key-here",
+    "model": "gpt-3.5-turbo",
+    "temperature": 0.3,
+    "max_tokens": 200
+  },
+  "camera": {
+    "device_index": 0,
+    "frame_width": 1280,
+    "frame_height": 720
+  },
+  "ocr": {
+    "languages": ["en"],
+    "confidence_threshold": 0.5
+  },
+  "paths": {
+    "medicine_database": "data/medicines.csv",
+    "temp_image_directory": "temp"
+  },
+  "scanner": {
+    "scan_interval_seconds": 2,
+    "display_results_duration_seconds": 5
+  }
+}
+
+
